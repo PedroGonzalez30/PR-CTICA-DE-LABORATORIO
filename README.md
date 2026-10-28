@@ -12,7 +12,7 @@ Telefono y computadora en la misma red local
 Instalación
 
 bash
-    git clone <url-del-repositorio>
+    git clone <[url-del-repositorio](https://github.com/PedroGonzalez30/PR-CTICA-DE-LABORATORIO)>
     cd explorador-movil
     npm install
 
